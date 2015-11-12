@@ -23,5 +23,5 @@ phar.readonly = Off
 ```
 php LiveSessionApp.php
 ```
-注：正式使用时，请自行删除LiveSessionApp.php最后的厕所代码
+注：正式使用时，请自行删除LiveSessionApp.php最后的测试代码
 
